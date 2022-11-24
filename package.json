@@ -1,9 +1,10 @@
 {
   "name": "react-example-super-ui-kit-eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "files": [
+    "index.js",
     "base.js",
     "client.js",
     "react.js",
